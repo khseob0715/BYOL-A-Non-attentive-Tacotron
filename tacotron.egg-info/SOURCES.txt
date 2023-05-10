@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+tacotron/__init__.py
+tacotron/configs.py
+tacotron/dataset.py
+tacotron/layers.py
+tacotron/model.py
+tacotron/tokenizer.py
+tacotron/utils.py
+tacotron/vocgan_generator.py
+tacotron.egg-info/PKG-INFO
+tacotron.egg-info/SOURCES.txt
+tacotron.egg-info/dependency_links.txt
+tacotron.egg-info/not-zip-safe
+tacotron.egg-info/requires.txt
+tacotron.egg-info/top_level.txt
