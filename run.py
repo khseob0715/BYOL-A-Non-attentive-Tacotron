@@ -13,7 +13,7 @@ import sys
 
 
 
-from byola.byol_a.common import seed_everything, load_yaml_config
+from by.byol_a.common import seed_everything, load_yaml_config
 
 
 
