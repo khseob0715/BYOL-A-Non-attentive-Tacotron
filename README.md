@@ -13,6 +13,8 @@ Self-supervised learning for robust voice cloning
 
 
 
+## Guide
+
 https://drive.google.com/file/d/1XV7WLYdvp2uecxhTfgPM_9nVaDJmBiPv/view?usp=share_link
 
 구글 드라이브에 pre-trained model 이랑 데이터셋 일부를 zip으로 만들어놔서 올려놓았습니다. 
